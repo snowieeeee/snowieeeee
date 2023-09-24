@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<br>
-	
+
 ### **About me**
 
-<picture> <img align="right" src="https://github.com/snowieeeee/snowieeeeee/blob/main/3qh2.gif" width = 280px></picture>
+<picture> <img align="right" src="https://github.com/snowieeeee/snowieeeee/blob/main/3qh2.gif" width = 280px></picture>
 
 - 🎓 Final year Computer Science student
 - 🏫 Hassania School of Public Works, Casablanca, Morocco
