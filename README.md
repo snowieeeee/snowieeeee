@@ -13,7 +13,6 @@
 - 💡 Eager learner, adaptable across technologies and domains
 - ✨ Enthusiastic about exploring and applying new technologies to solve real-life problems
 - 🤝 Open for collaborations
-- 📧 Contact: **zmizemayaa@gmail.com**
 
 ### **Languages and Tools**
 
