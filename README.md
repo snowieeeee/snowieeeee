@@ -33,7 +33,6 @@
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/1280px-Cassandra_logo.svg.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/TalendLogoCoral.png" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/snowieeeee/snowieeeee/blob/main/uml_logo.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/1200px-SCIPY_2.svg.png" width="40" height="40"/>&nbsp;
