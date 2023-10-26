@@ -7,7 +7,7 @@
 
 - 🎓 Final year Computer Science student
 - 🏫 Hassania School of Public Works, Casablanca, Morocco
-- 📅 Seeking a **6-month internship starting from January 1st, 2024**
+- 📅 Seeking a **6-month internship starting from February 1st, 2024**
 - 💻 Passionate about **Business Intelligence** and **Data Science**
 - 📊 Committed to making data-driven decisions
 - 💡 Eager learner, adaptable across technologies and domains
