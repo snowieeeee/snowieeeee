@@ -3,7 +3,7 @@ Hi there 👋
 
 ### **About me**
 
-<picture> <img align="right" src="https://github.com/snowieeeee/snowieeeee/blob/main/3qh2.gif" width = 260px></picture>
+<picture> <img align="right" src="https://github.com/snowieeeee/snowieeeee/blob/main/3qh2.gif" width = 240px></picture>
 
 - 🎓 Final Year Computer Science Student
 - 🏫 Hassania School of Public Works, Casablanca, Morocco
