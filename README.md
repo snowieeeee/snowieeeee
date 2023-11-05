@@ -5,10 +5,10 @@ Hi there 👋
 
 <picture> <img align="right" src="https://github.com/snowieeeee/snowieeeee/blob/main/3qh2.gif" width = 260px></picture>
 
-- 🎓 Final year Computer Science student
+- 🎓 Final Year Computer Science Student
 - 🏫 Hassania School of Public Works, Casablanca, Morocco
 - 📅 Seeking a **PFE internship starting from February 1st, 2024**
-- 💻 Passionate about **Business Intelligence** and **Data Science**
+- 💻 Passionate about **Business Intelligence** & **Data Science**
 - 📊 Committed to making data-driven decisions
 - 💡 Eager learner, adaptable across technologies and domains
 - ✨ Enthusiastic about exploring and applying new technologies to solve real-life problems
