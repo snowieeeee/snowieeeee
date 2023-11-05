@@ -34,6 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/aws_logo_smile_1200x630.png" alt="aws" width="40" height="40"/>&nbsp;
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/TalendLogoCoral.png" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/snowieeeee/snowieeeee/blob/main/channels4_profile.jpg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/1200px-SCIPY_2.svg.png" width="40" height="40"/>&nbsp;
