@@ -69,7 +69,7 @@
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/hadoop7135.jpg" alt="Hadoop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/spark.png" alt="Spark" width="40" height="40"/>&nbsp;
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/1636542639252_Moby-logo.png" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/terraform-icon-1803x2048-hodrzd3t.png" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/snowieeeee/snowieeeee/blob/main/terraform-icon-1803x2048-hodrzd3t.png" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
