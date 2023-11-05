@@ -10,7 +10,6 @@ Hi there 👋
 - 📅 Seeking a **PFE internship starting from February 1st, 2024**
 - 💻 Passionate about **Business Intelligence** & **Data Science**
 - 📊 Committed to making data-driven decisions
-- 💡 Eager learner, adaptable across technologies and domains
 - ✨ Enthusiastic about exploring and applying new technologies to solve real-life problems
 - 🤝 Open for collaborations
 
