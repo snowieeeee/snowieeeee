@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/630px-New_Power_BI_Logo.svg.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/tableau-software.jpg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/snowieeeee/snowieeeee/blob/main/IBM-Cognos-analytics-300x153.png" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/snowieeeee/snowieeeee/blob/main/IBMcognos.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>&nbsp;
@@ -68,7 +68,7 @@
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/hadoop7135.jpg" alt="Airflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/hadoop7135.jpg" alt="Hadoop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/spark.png" alt="Spark" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/snowieeeee/snowieeeee/blob/main/1636542639252_Moby-logo.png" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/snowieeeee/snowieeeee/blob/main/logo-dont-stretch.svg" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/terraform-icon-1803x2048-hodrzd3t.png" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>&nbsp;
