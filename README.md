@@ -1,7 +1,6 @@
 Hi there 👋
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **About me**
+## About me
 
 <picture> <img align="right" src="https://github.com/snowieeeee/snowieeeee/blob/main/3qh2.gif" width = 240px></picture>
 
@@ -13,7 +12,7 @@ Hi there 👋
 - ✨ Enthusiastic about exploring and applying new technologies to solve real-life problems
 - 🤝 Open for collaborations
 
-### **Languages and Tools**
+## Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
