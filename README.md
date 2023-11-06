@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aya Zmizem</h1>
-<br>
-
 <p align="center">
-   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/c490ca0a25bc300089e784e635ff465f.gif" height="220" width="580"/>
+   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/c490ca0a25bc300089e784e635ff465f.gif" height="250" width="600"/>
 <p>
   
 ## About me
