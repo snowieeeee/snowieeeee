@@ -1,5 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aya Zmizem</h1>
+<br>
 
+<p align="center">
+   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/c490ca0a25bc300089e784e635ff465f.gif"/>
+<p>
+  
 ## About me
 
 <picture> <img align="right" src="https://github.com/snowieeeee/snowieeeee/blob/main/3qh2.gif" width = 240px></picture>
