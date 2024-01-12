@@ -65,6 +65,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://cdn.stepik.net/media/cache/images/courses/99527/cover_OII2ekI/aad9c923a6df720a4efd8fefa3c4c908.png" alt="Airflow" width="40" height="40"/>&nbsp;
   <img src="https://miro.medium.com/v2/resize:fit:336/0*t7VhFwM7ksWONWeW.png" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
 </div>
