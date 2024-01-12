@@ -33,6 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://i.pinimg.com/280x280_RS/69/51/d1/6951d160ccf26c2fc86b7b089a1449a6.jpg" alt="Neo4j" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/2232217?s=280&v=4" alt="aws" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/459687?s=280&v=4" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/77229014?v=4" width="40" height="40"/>&nbsp;
