@@ -10,9 +10,9 @@
 - 🎓 Final Year Computer Science Student
 - 🏫 Hassania School of Public Works, Casablanca, Morocco
 - 📅 Seeking a **PFE internship starting from February 1st, 2024**
-- 💻 Passionate about **Business Intelligence** & **Data Science**
-- 📊 Committed to making data-driven decisions
+- 💻 Passionate about **Data Science** and **Data Analytics & BI**
 - ✨ Enthusiastic about exploring and applying new technologies to solve real-life problems
+- 📊 Committed to making data-driven decisions
 - 🤝 Open for collaborations
 
 ## Languages and Tools
