@@ -8,7 +8,6 @@
 <picture> <img align="right" src="https://github.com/snowieeeee/snowieeeee/blob/main/3qh2.gif" width = 200px></picture>
 
 - 🎓 Final Year Computer Science Student
-- 🏫 Hassania School of Public Works, Casablanca, Morocco
 - 💻 Passionate about **Data Science** and **Data Analytics & BI**
 - ✨ Enthusiastic about exploring and applying new technologies to solve real-life problems
 - 📊 Committed to making data-driven decisions
