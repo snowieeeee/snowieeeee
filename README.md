@@ -37,7 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/8cf1837393d83900e767cc895dcc814d053e2ffe/topics/spacy/spacy.png" width="40" height="45"/>&nbsp;
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*-dNH8WI8Oy3etClaRvRCgw.png" width="55" height="40"/>&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*-dNH8WI8Oy3etClaRvRCgw.png" width="65" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/22799945?s=280&v=4" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" width="40" height="40"/>&nbsp;
