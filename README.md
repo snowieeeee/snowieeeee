@@ -31,8 +31,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://i.pinimg.com/280x280_RS/69/51/d1/6951d160ccf26c2fc86b7b089a1449a6.jpg" alt="Neo4j" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/459687?s=280&v=4" width="50" height="50"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/77229014?v=4" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/8cf1837393d83900e767cc895dcc814d053e2ffe/topics/spacy/spacy.png" width="40" height="45"/>&nbsp;
@@ -66,7 +64,6 @@
   <img src="https://cdn.stepik.net/media/cache/images/courses/99527/cover_OII2ekI/aad9c923a6df720a4efd8fefa3c4c908.png" alt="Airflow" width="40" height="40"/>&nbsp;
   <img src="https://miro.medium.com/v2/resize:fit:336/0*t7VhFwM7ksWONWeW.png" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
